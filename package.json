@@ -2,7 +2,7 @@
   "name": "basalt",
   "private": true,
   "version": "0.1.0",
-  "description": "An open-source, local-first Markdown knowledge base \u2014 vault-compatible with Obsidian, built to never be enshittified.",
+  "description": "An open-source, local-first Markdown knowledge base — vault-compatible with Obsidian, built to never be enshittified.",
   "license": "AGPL-3.0-or-later",
   "type": "module",
   "bin": {
@@ -46,6 +46,7 @@
     "@tauri-apps/cli": "^2",
     "@types/d3-force": "^3.0.10",
     "@types/katex": "^0.16.8",
+    "@types/node": "^26.6.1",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@vitejs/plugin-react": "^4.6.0",
